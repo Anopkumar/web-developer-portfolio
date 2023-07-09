@@ -131,3 +131,11 @@ nav li{
 .download-cv{
     text-align: center;
 }
+.footer-last{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.contact-text{
+   
+}
