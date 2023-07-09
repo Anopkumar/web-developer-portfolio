@@ -1,3 +1,4 @@
+
 body{
     font-family: 'Open Sans', sans-serif;
     
@@ -60,12 +61,14 @@ nav li{
     padding: 30px 30px 0px 150px;
     display: flex;
     align-items: center;
+    margin-bottom: 0px;
     
 }
 .banner.profile-pic{
     width: 500px;
     height: 600px;
-    margin-left: 100px;
+    margin-left: 200px;
+    margin-bottom: 0px;
 }
 .banner-contant{
     margin-left: 20px;
@@ -93,4 +96,24 @@ nav li{
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
+}
+.main{
+    max-width: 1140px;
+    margin: 0px auto;
+
+}
+.img-developer{
+    justify-content: left;
+    
+}
+.info-about-container{
+    display: flex;
+    justify-content: space-between;
+}
+.about-info{
+    text-align: center;
+}
+.skills-container{
+    display: flex;
+    text-align: center;
 }
