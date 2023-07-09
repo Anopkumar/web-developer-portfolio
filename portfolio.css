@@ -116,4 +116,18 @@ nav li{
 .skills-container{
     display: flex;
     text-align: center;
+
+}
+.resume-container{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    gap: 50px;
+    
+}
+.resume-header{
+    text-align: center;
+}
+.download-cv{
+    text-align: center;
 }
