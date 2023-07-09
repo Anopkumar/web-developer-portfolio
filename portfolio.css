@@ -49,10 +49,11 @@ nav li{
     color: #e7811b;
 }
 .header{
-    background-color: #47433f;
-    background-image:url('./images/header_bg.png') ;
+    background-color: #d6c9bc;
+    background-image:url('./images/header_bg.png'), url(./images/developer.png);
+    
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: bottom right , top left 10px;
 
     
     
